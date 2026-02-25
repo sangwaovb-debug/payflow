@@ -1,0 +1,13 @@
+{
+  "name": "payflow",
+  "version": "1.0.0",
+  "description": "payment qr api",
+  "main": "server/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
